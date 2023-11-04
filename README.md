@@ -1,2 +1,0 @@
-# Graphix
-Portafolio profesional
