@@ -322,6 +322,9 @@ header{
    .card{
       width:48%;
    }
+   .card img{
+      size-adjust: 30px;
+   }
  }
 
  @media screen and (max-width:610px){
@@ -376,4 +379,5 @@ header{
     .subtitle-endorsment{
       font-size: 20px;
     }
+   
  }
