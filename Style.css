@@ -317,6 +317,15 @@ header{
    color: #fff;
  }
 
+ footer a{
+   font-size: 50px;
+    color: #b8ad6f;
+    font-weight: bold;
+    transition: filter 2s cubic-bezier(.84,.31,.44,.96);
+    will-change: filter;
+}
+ 
+
  
  @media screen and (max-width:900px){
    .card{
